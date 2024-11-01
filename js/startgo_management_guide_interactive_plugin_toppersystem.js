@@ -1,0 +1,1 @@
+window.addEventListener("load", () => {setTimeout("StartProcessWhileToppersystem()", 20);setTimeout("events_management_toppersystem()", 1400);setTimeout("go_guide_toppersystem()", 2200);}, false);

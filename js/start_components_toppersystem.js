@@ -1,0 +1,1 @@
+window.addEventListener("load", () => {setTimeout("start_optimization_toppersystem()", 20);setTimeout("StartProcessToppersystem()", 1200);}, false);
